@@ -10,6 +10,9 @@ body {
     font-family: 'Arial', sans-serif;
     position: relative;
     background-image: url(./img/12.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+
   }
 
   #game-container {
